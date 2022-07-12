@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0062ad90-88a2-4f24-8745-4e6c24fc7c3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="a3e25012-f84a-46e7-abac-c9d12c945231" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Building-a-Blog-Application.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/migrations/0002_alter_post_managers_comment.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/blog/migrations/0003_post_tags.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/static/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2BlfMRPtABaLPjgleK95UON1t9k" />
+  <component name="ProjectId" id="2Bp6Hn1jFsdKnHg4P3QVvDMbyWl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,30 +53,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Tran Phong/PycharmProjects/Building-a-Blog-Application",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/Tran Phong/PycharmProjects/Building-a-Blog-Application"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0062ad90-88a2-4f24-8745-4e6c24fc7c3e" name="Changes" comment="" />
-      <created>1657485544095</created>
+      <changelist id="a3e25012-f84a-46e7-abac-c9d12c945231" name="Changes" comment="" />
+      <created>1657590598858</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657485544095</updated>
+      <updated>1657590598858</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
