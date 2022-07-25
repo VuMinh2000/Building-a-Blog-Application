@@ -5,11 +5,11 @@
 
 {% block content %}
     {% if query %}
-       <h1>Post containing"{{ query }}"</h1>
+        <h1>Post containing"{{ query }}"</h1>
         <h3>
-            {% with results.count as total_results %}
-                Found {{ total_results }} result {{ total_result|pluralize }}
-            {% endwith %}
+          {% with results.count as total_results %}
+            Found {{ total_results }} result{{ total_results|pluralize }}
+          {% endwith %}
         </h3>
         {% for post in result %}
             <h4><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h4>
